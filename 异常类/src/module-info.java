@@ -5,5 +5,5 @@
  * @author Aatrox
  *
  */
-module 异常类 {
+module 异常类 {22
 }
