@@ -37,6 +37,6 @@ public class RandomNumber {
         if (index >= 0)
             System.out.println(inputNum + "下标为" + index);
         else
-            System.out.println("没有" + inputNum);
+            System.out.println("没有 " + inputNum);
     }
 }
